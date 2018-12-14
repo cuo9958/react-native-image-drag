@@ -1,0 +1,20 @@
+{
+    "name": "react-native-image-drag",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/cuo9958/react-native-image-drag.git"
+    },
+    "keywords": ["react-native", "drag", "九宫格"],
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/cuo9958/react-native-image-drag/issues"
+    },
+    "homepage": "https://github.com/cuo9958/react-native-image-drag#readme"
+}
