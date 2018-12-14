@@ -2,7 +2,7 @@
 
 这是一个为了自由拖动图片而开发的库。
 
-![]()
+![示例](http://resource.guofangchao.com/image-drag.gif)
 
 ## ImageContainer介绍
 
