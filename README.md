@@ -1,5 +1,7 @@
 ## react-native-image-drag
 
+[![NPM version][npm-image]][npm-url]
+
 这是一个为了自由拖动图片而开发的库。
 
 [npm地址](https://www.npmjs.com/package/react-native-image-drag)
