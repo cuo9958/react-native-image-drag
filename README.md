@@ -1,6 +1,6 @@
 ## react-native-image-drag
 
-[![NPM version][npm-image]][npm-url]
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php) 
 
 这是一个为了自由拖动图片而开发的库。
 
